@@ -1,2 +1,2 @@
-# djangoProjectSecondProject
-django Second Project File
+# djangoDummyProject
+python Django Dummy Project
